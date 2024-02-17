@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorIntegrationTesting2", "BlazorIntegrationTesting2\BlazorIntegrationTesting2.csproj", "{2CA8BD68-B9DA-4402-950F-8EF8FC934E64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazroIntegrationTesting2.Tests", "BlazroIntegrationTesting2.Tests\BlazroIntegrationTesting2.Tests.csproj", "{9FCBE8F2-BDFD-4B32-9CC9-7A693062D63C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA8BD68-B9DA-4402-950F-8EF8FC934E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA8BD68-B9DA-4402-950F-8EF8FC934E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA8BD68-B9DA-4402-950F-8EF8FC934E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA8BD68-B9DA-4402-950F-8EF8FC934E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCBE8F2-BDFD-4B32-9CC9-7A693062D63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCBE8F2-BDFD-4B32-9CC9-7A693062D63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCBE8F2-BDFD-4B32-9CC9-7A693062D63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCBE8F2-BDFD-4B32-9CC9-7A693062D63C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
